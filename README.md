@@ -38,7 +38,7 @@ This project demonstrates how to control a two-motor car using a NodeMCU (ESP826
 
 ## Installation
 
-1. **Install the Arduino IDE** and add the ESP8266 board package.
+1. **Install the Arduino IDE** and add the ESP8266 board package using this link : "http://arduino.esp8266.com/stable/package_esp8266com_index.json".
 2. **Clone this repository** to your local machine.
 3. **Open the project in Arduino IDE** and ensure you have the required libraries installed.
 4. **Upload the code** to your NodeMCU.

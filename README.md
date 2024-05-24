@@ -47,7 +47,7 @@ This project demonstrates how to control a two-motor car using a NodeMCU (ESP826
 
 1. **Power the NodeMCU** and the motors.
 2. **Connect to the NodeMCU’s Wi-Fi** network (SSID: `NodeMCU Car`).
-3. **Open the Application 
+3. **Open the Application**
 4. **Control the car** by sending commands via the App interface.
 
 ## Commands

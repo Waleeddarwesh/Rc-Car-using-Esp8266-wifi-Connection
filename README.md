@@ -13,7 +13,7 @@ This project demonstrates how to control a two-motor car using a NodeMCU (ESP826
 
 - NodeMCU (ESP8266)
 - L298N Motor Driver
-- Two DC Motors
+- Two or Four DC Motors
 - Power Supply for Motors (e.g., battery pack)
 - Connecting Wires
 - Car Chassis (optional, for mounting the motors and electronics)

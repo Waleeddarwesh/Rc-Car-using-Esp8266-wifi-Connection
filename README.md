@@ -47,8 +47,8 @@ This project demonstrates how to control a two-motor car using a NodeMCU (ESP826
 
 1. **Power the NodeMCU** and the motors.
 2. **Connect to the NodeMCU’s Wi-Fi** network (SSID: `NodeMCU Car`).
-3. **Open a web browser** and navigate to the IP address shown in the serial monitor (usually `192.168.4.1`).
-4. **Control the car** by sending commands via the web interface.
+3. **Open the Application 
+4. **Control the car** by sending commands via the App interface.
 
 ## Commands
 
@@ -56,14 +56,8 @@ This project demonstrates how to control a two-motor car using a NodeMCU (ESP826
 - `B`: Move backward
 - `L`: Turn left
 - `R`: Turn right
-- `I`: Move forward-right
-- `G`: Move forward-left
-- `J`: Move backward-right
-- `H`: Move backward-left
 - `S`: Stop
 - `0-9`: Set speed (from 400 to 1023)
 
-## Example
 
-To move the car forward, navigate to:
 

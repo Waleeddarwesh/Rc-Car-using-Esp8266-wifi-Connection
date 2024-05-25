@@ -1,6 +1,6 @@
 # NodeMCU Wi-Fi Controlled Car
 
-This project demonstrates how to control a two-motor car using a NodeMCU (ESP8266) via a web interface. The car's movement and speed are controlled by sending HTTP requests to the NodeMCU, which interprets the commands and drives the motors accordingly through an L298N motor driver.
+This project demonstrates how to control a two and four-motor car using a NodeMCU (ESP8266) via a web interface. The car's movement and speed are controlled by sending HTTP requests to the NodeMCU, which interprets the commands and drives the motors accordingly through an L298N motor driver.
 
 ## Features
 
